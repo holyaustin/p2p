@@ -4,3 +4,4 @@ Fluence implementation of Browser p2p for kezzaya
 This is a peer to peer implementation of the Fluence Network P2P communication.
 
 
+Live implementation on https://p2p-theta.vercel.app/
